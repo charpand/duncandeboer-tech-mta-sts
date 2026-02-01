@@ -1,0 +1,10 @@
+version: STSv1
+mode: enforce
+mx: spamrelay.zxcs.nl
+mx: *.mailbox.org
+mx: mx1.mailbox.org
+mx: mx2.mailbox.org
+mx: mx3.mailbox.org
+mx: mxtls1.mailbox.org
+mx: mxtls2.mailbox.org
+max_age: 604800
